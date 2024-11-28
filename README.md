@@ -1,4 +1,4 @@
-# AI-generate-peronalized-Proposals
+# AI-generate-personalized-Proposals
 The world is changing and we believe AI Agents are going to play a big role in where we’re going next. We’re looking for someone who’s interested in walking with us as we move confidently into the future.
 
 The vision
